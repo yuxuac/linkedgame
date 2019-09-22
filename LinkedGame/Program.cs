@@ -15,10 +15,7 @@ namespace LinkedGame
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new InitializeForm());
             Application.Run(new GameForm());
-            //Application.Run(new AnimationTest1());
-            
         }
     }
 }
